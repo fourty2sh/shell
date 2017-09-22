@@ -1,2 +1,2 @@
-# shell
+# 42sh
 Group project
